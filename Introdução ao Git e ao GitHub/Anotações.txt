@@ -2,4 +2,4 @@ Link para download do Git
 
 https://git-scm.com/download/win
 
-Utilize o Git Bash é um terminal para otimizar o uso do Git.
+Utilize o Git Bash que é um terminal para otimizar o uso do Git.
